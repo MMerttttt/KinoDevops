@@ -1,0 +1,2 @@
+# KinoDevops
+Creating an pipeline
