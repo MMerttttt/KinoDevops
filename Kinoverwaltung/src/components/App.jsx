@@ -7,7 +7,7 @@ import {
 import { Home } from './Home'
 import '../styles/global.css';
 import { CreatePlayer } from './CreatePlayer';
-import { TournamentList } from './TournamentList';
+import { TournamentList } from './Program';
 import { TournamentInformation } from './TournamentInformation';
 
 
